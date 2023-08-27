@@ -7,3 +7,4 @@
 + [Comandos Esenciales de la Terminal en Sistemas Linux](https://github.com/KIRIL13POK/ItLearningLab_ExplorandoTecnologia/blob/main/comandos_basicos_Linux.md)
 + [Introducción al Archivo package.json](https://github.com/KIRIL13POK/ItLearningLab_ExplorandoTecnologia/blob/main/introducci%C3%B3nAlArchivoPackageJson.md)
 + [Guía de Gestión de Paquetes en Node.js con npm: Instalación y Configuración](https://github.com/KIRIL13POK/ItLearningLab_ExplorandoTecnologia/blob/main/manejoPaquetesNodejsNpm.md)
++ [Dependencias y sus diferencias](https://github.com/KIRIL13POK/ItLearningLab_ExplorandoTecnologia/blob/main/DependenciasSusDiferencias.md)
